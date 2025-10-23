@@ -13,7 +13,9 @@
 
 ---
 
+<div align="center'>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davichobacter&show_icons=true&locale=es&layout=compact" alt="davichobacter" /></p> 
+</div align="center'>
 
 ---
 
