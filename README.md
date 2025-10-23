@@ -1,3 +1,10 @@
+<style>
+  body = {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+
 <h1 align="center">Hola 👋, soy David Armando Ramírez Navarrete</h1> <h3 align="center">Científico de Datos</h3>
 
 🌱 Actualmente estoy aprendiendo Amazon AWS, MLOps
